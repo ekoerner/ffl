@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="League Season" language="en" table="x_114500_fantasy_f_league_season">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>League Season</label>
+            <language>en</language>
+            <name>x_114500_fantasy_f_league_season</name>
+            <plural>League Seasons</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ekoerner</sys_created_by>
+            <sys_created_on>2018-08-05 12:33:25</sys_created_on>
+            <sys_id>051dcbe4db331300d0beaab35b961942</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>League Season</sys_name>
+            <sys_package display_value="Fantasy Football Draft" source="x_114500_fantasy_f">47eac7a0db331300d0beaab35b96196b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Fantasy Football Draft">47eac7a0db331300d0beaab35b96196b</sys_scope>
+            <sys_update_name>sys_documentation_x_114500_fantasy_f_league_season__en</sys_update_name>
+            <sys_updated_by>ekoerner</sys_updated_by>
+            <sys_updated_on>2018-08-05 12:33:25</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

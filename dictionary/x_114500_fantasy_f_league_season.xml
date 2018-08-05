@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="League Season" max_length="40" name="x_114500_fantasy_f_league_season" type="collection">
+        <element label="League" mandatory="true" max_length="32" name="league" reference="x_114500_fantasy_f_league" type="reference"/>
+        <element calculation="(function calculatedFieldValue(current) {&#13;&#10;&#9;&#13;&#10;&#9;return current.year + ' ' + current.league.getDisplayValue();&#13;&#10;&#13;&#10;})(current);" display="true" label="Name" max_length="40" name="name" read_only="true" type="string" virtual="true"/>
+        <element default="javascript: new GlideDateTime().getYearLocalTime()" label="Year" mandatory="true" max_length="4" name="year" type="string"/>
+        <index name="index">
+            <element name="league"/>
+        </index>
+    </element>
+</database>

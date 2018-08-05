@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="League" max_length="40" name="x_114500_fantasy_f_league" type="collection">
+        <element display="true" label="Name" max_length="100" name="name" type="string"/>
+    </element>
+</database>

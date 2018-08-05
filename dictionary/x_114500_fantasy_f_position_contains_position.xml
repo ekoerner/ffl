@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Position Contains Position" max_length="40" name="x_114500_fantasy_f_position_contains_position" type="collection">
+        <element display="true" label="Position" mandatory="true" max_length="32" name="player_position" reference="x_114500_fantasy_f_position" type="reference"/>
+        <element label="Parent" mandatory="true" max_length="32" name="roll_up_position" read_only="true" reference="x_114500_fantasy_f_position" type="reference"/>
+        <index name="index">
+            <element name="roll_up_position"/>
+        </index>
+        <index name="index2">
+            <element name="player_position"/>
+        </index>
+    </element>
+</database>
