@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_114500_fantasy_f.admin" name="x_114500_fantasy_f.admin">fd4b07a4db331300d0beaab35b961992</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>ekoerner</sys_created_by>
+        <sys_created_on>2018-08-05 12:25:51</sys_created_on>
+        <sys_id>9a5bc7a4db331300d0beaab35b9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fd4b07a4db331300d0beaab35b961992</sys_name>
+        <sys_package display_value="Fantasy Football Draft" source="x_114500_fantasy_f">47eac7a0db331300d0beaab35b96196b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Fantasy Football Draft">47eac7a0db331300d0beaab35b96196b</sys_scope>
+        <sys_update_name>sys_embedded_help_role_9a5bc7a4db331300d0beaab35b9619ae</sys_update_name>
+        <sys_updated_by>ekoerner</sys_updated_by>
+        <sys_updated_on>2018-08-05 12:25:51</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
